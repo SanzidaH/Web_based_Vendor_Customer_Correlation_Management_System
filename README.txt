@@ -1,6 +1,4 @@
-THEME: Virb - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
+Author : Sanzida Hoque, Sharmin Sultana Sharmee, Diana Shahrin, Farhana Kabir 
 
 
 CREDITS:
@@ -46,3 +44,6 @@ https://unsplash.com
 
 Magnific Popup
 http://dimsemenov.com/plugins/magnific-popup/
+
+Template
+https://uiCookies.com/
