@@ -1,4 +1,4 @@
-Author : Sanzida Hoque, Sharmin Sultana Sharmee, Diana Shahrin, Farhana Kabir 
+Author : Sanzida Hoque
 Web Project for CSE - 401
 
 CREDITS:
