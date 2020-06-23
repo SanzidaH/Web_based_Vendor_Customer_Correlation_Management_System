@@ -1,6 +1,9 @@
 Author : Sanzida Hoque
 Web Project for CSE - 401
+
 ![image](https://github.com/SanzidaH/Web_based_Vendor_Customer_Correlation_Management_System/blob/master/unreg.png)
+
+<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/SanzidaH/Web_based_Vendor_Customer_Correlation_Management_System/blob/master/unreg.png”>
 
 CREDITS:
 
